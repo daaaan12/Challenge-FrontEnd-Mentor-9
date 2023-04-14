@@ -363,7 +363,7 @@ body {
 
     .txt-parag {
         width: 70%;
-        margin-top: 40px;
+        margin-top: -40px;
         
     }
 }
