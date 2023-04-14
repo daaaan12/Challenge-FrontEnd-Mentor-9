@@ -363,8 +363,11 @@ body {
 
     .txt-parag {
         width: 70%;
-        margin-top: -10px;
-        
+ 
+    }
+  
+  .txt-resultado {
+       margin-top: 30px;
     }
 }
 
